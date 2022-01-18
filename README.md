@@ -18,7 +18,7 @@
   <br/>
   <br/>
   <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudulhasan766&theme=dark&show_icons=true" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudulhasan766&theme=light&show_icons=true" alt="Pramod's Github Stats">
 </p>
  <p align="center">
  Thanks for everyone by 🦄<br/>
