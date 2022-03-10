@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif"height="2px" /></h3> 
+  <h3 align="center">....Connect With Me....<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif"height="2px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/mahmudulhasan766/" target=”_blank”>
